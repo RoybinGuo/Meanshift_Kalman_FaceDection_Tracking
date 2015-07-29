@@ -1,0 +1,25 @@
+﻿生成启动时间为 2015/7/16 20:01:06。
+     1>项目“c:\Users\95\documents\visual studio 2013\Projects\Meanshift_and_Tracing\Meanshift_and_Tracing\Meanshift_and_Tracing.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Meanshift_and_Tracing.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Meanshift_and_Tracing.cpp
+         Meanshift_and_Tracing.cpp
+     1>c:\opencv\build\include\opencv2\flann\logger.h(66): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\95\documents\visual studio 2013\projects\meanshift_and_tracing\meanshift_and_tracing\meanshift_and_tracing.cpp(94): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\95\documents\visual studio 2013\projects\meanshift_and_tracing\meanshift_and_tracing\meanshift_and_tracing.cpp(95): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\95\documents\visual studio 2013\projects\meanshift_and_tracing\meanshift_and_tracing\meanshift_and_tracing.cpp(96): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\95\documents\visual studio 2013\projects\meanshift_and_tracing\meanshift_and_tracing\meanshift_and_tracing.cpp(97): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\95\documents\visual studio 2013\projects\meanshift_and_tracing\meanshift_and_tracing\meanshift_and_tracing.cpp(187): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\95\documents\visual studio 2013\projects\meanshift_and_tracing\meanshift_and_tracing\meanshift_and_tracing.cpp(189): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\95\documents\visual studio 2013\projects\meanshift_and_tracing\meanshift_and_tracing\meanshift_and_tracing.cpp(190): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\95\documents\visual studio 2013\projects\meanshift_and_tracing\meanshift_and_tracing\meanshift_and_tracing.cpp(251): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\95\documents\visual studio 2013\projects\meanshift_and_tracing\meanshift_and_tracing\meanshift_and_tracing.cpp(253): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\95\documents\visual studio 2013\projects\meanshift_and_tracing\meanshift_and_tracing\meanshift_and_tracing.cpp(254): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\95\documents\visual studio 2013\projects\meanshift_and_tracing\meanshift_and_tracing\meanshift_and_tracing.cpp(292): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\95\documents\visual studio 2013\projects\meanshift_and_tracing\meanshift_and_tracing\meanshift_and_tracing.cpp(293): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\95\documents\visual studio 2013\projects\meanshift_and_tracing\meanshift_and_tracing\meanshift_and_tracing.cpp(407): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>已完成生成项目“c:\Users\95\documents\visual studio 2013\Projects\Meanshift_and_Tracing\Meanshift_and_Tracing\Meanshift_and_Tracing.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.58
